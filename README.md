@@ -23,7 +23,7 @@ Follow these steps to get started with the project:
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine.
    
-2. **Setting Up AWS**: If you don't have an AWS account, sign up for one. Refer to the provided tutorial links in the description for assistance.
+2. **Setting Up AWS**: If you don't have an AWS account, sign up for one.
 
 3. **Install Dependencies**: Open a terminal and install the required Python libraries by running:
    
