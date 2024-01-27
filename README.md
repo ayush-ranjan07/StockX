@@ -4,7 +4,7 @@ Certainly, here's a README file for the project:
 
 Welcome to the Stock Market Data analysis project! In this project, we will explore the data engineering by building a robust stock market data processing engine using Kafka and AWS services. This README will guide you through the project's overview, prerequisites, setup, and execution.
 
-## Project Overview
+## Overview
 
 This project aims to demonstrate how to process real-time stock market data using Kafka, a distributed event store and stream processing platform, coupled with AWS services like S3 and Amazon Athena for data storage, querying, and analysis. The project is divided into three main segments: understanding prerequisites, comprehending Kafka's architecture, and hands-on implementation.
 
