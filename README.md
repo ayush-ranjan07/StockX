@@ -1,7 +1,5 @@
 # StockX
 
-Certainly, here's a README file for the project:
-
 Welcome to the Stock Market Data analysis project! In this repository, we will explore the data engineering by building a robust stock market data processing engine using Kafka and AWS services. This README will guide you through the project's overview, prerequisites, setup, and execution.
 
 ## Overview
